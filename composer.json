@@ -1,0 +1,15 @@
+{
+    "name": "glot/glot",
+    "description": "The rendering engine for websites written in GLOT markup.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "keywords": [
+        "markup",
+        "localization",
+        "multilingual"
+    ],
+    "support": {
+        "email": "glot@proximify.com"
+    },
+    "require": {}
+}
